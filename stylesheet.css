@@ -1,0 +1,22 @@
+h1{
+  margin-left: 600px;
+  padding: 20px;
+  font-style: italic;
+}
+form{
+  background-color: #B0B0B0;
+  width: 850px;
+  height: 650px;
+  margin-left: 350px;
+}
+label{
+  margin: 10px;
+}
+button{
+  margin-top: 20px;
+  margin-left: 350px;
+}
+button:hover{
+  background-color: white;
+  color: black;
+}
